@@ -1,0 +1,11 @@
+.page-header { 
+	border-bottom:none; 
+}
+
+input:focus {
+    border: #15206d;
+}
+
+textarea {
+  width: 100%;
+}
